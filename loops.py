@@ -1,0 +1,15 @@
+# while loop example
+count = 0
+while count < 100:
+    print("Count is:", count)
+    count += 1
+
+# for loop example
+video_games = ["Call of Duty", "FIFA", "PUBG", "Fortnite"]
+for game in video_games:
+    print("I love playing", game)
+
+# range function example
+video_games.append("GTA")
+
+print("Updated list of video games:", video_games)
