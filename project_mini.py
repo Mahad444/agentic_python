@@ -1,10 +1,10 @@
 import random
 
-secret_number = random.randint(1, 10)
+secret_number = random.randint(1, 15)
 
 attempts = 3
 
-print("I am thinking of a number between 1 and 10.")
+print("I am thinking of a number between 1 and 15.")
 
 while attempts > 0:
     guess = int(input("Take a guess: "))
