@@ -13,3 +13,9 @@ for game in video_games:
 video_games.append("GTA")
 
 print("Updated list of video games:", video_games)
+
+
+# for loop with range
+for i in range(1, 11):
+    print("Number:", i)
+    
