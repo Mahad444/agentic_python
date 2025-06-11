@@ -95,4 +95,8 @@ while running:
     clock.tick(10)
 
 pygame.quit()
-sys.exit()
+sys.exit()  
+
+# Game over message
+game_over_text = font.render('Game Over! Press any key to exit.', True, WHITE)
+screen.fill(BLACK)
