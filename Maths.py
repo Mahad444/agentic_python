@@ -10,3 +10,6 @@ print ("The modulus of x and y is:", x // y)
 print("the modulous of x and y is:", x % y)
 # power
 print("the power of x and y is:", x ** y)
+# sum using apples and oranges
+def sum_apples_and_oranges(apples, oranges):
+    return apples + oranges
