@@ -47,3 +47,7 @@ if attempts == 0:
     else:
         print("Thanks for playing!")
 
+# Note: The above code is a simple number guessing game.
+# It can be improved by adding error handling for non-integer inputs.
+else:
+    print("Thanks for playing!")
