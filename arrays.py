@@ -20,3 +20,6 @@ def print_numbers():
     # Iterate through the array
     for num in numbers:
         print("Number:", num)
+
+        # array of fruits
+        
