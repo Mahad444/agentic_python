@@ -21,5 +21,25 @@ def print_numbers():
     for num in numbers:
         print("Number:", num)
 
-        # array of fruits
+        #array of fruits
+def print_fruits():
+    fruits = ["apple", "banana", "cherry"]
+    print("Original fruits:", fruits)
+    
+    # Add an element
+    fruits.append("date")
+    print("After appending 'date':", fruits)
+    
+    # Remove an element
+    fruits.remove("banana")
+    print("After removing 'banana':", fruits)
+        
+    # Access elements
+    print("First fruit:", fruits[0])
+    print("Last fruit:", fruits[-1])
+    
+    # Iterate through the array
+    for fruit in fruits:
+        print("Fruit:", fruit)
+        
         
