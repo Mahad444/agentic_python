@@ -39,4 +39,8 @@ def print_numbers():
     # Iterate through the array
     for num in numbers:
         print("Number:", num)
+print_numbers()
+def greet_user(name):
+    print(f"Welcome, {name}!")
+greet_user("Charlie")
    
