@@ -18,4 +18,5 @@ print("Updated list of video games:", video_games)
 # for loop with range
 for i in range(1, 11):
     print("Number:", i)
-    
+    if i == 5:
+        print("Halfway there!")
