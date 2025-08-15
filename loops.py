@@ -20,3 +20,7 @@ for i in range(1, 11):
     print("Number:", i)
     if i == 5:
         print("Halfway there!")
+
+# for loop with range and step
+for i in range(0, 20, 2):
+    print("Even number:", i)
