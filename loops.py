@@ -24,3 +24,7 @@ for i in range(1, 11):
 # for loop with range and step
 for i in range(0, 20, 2):
     print("Even number:", i)
+# Accessing elements in a dictionary
+first_dict_value = my_dict["name"]  # "Alice"
+second_dict_value = my_dict["age"]   # 25
+third_dict_value = my_dict["city"]  # "New York"
