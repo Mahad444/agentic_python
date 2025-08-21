@@ -28,3 +28,9 @@ for i in range(0, 20, 2):
 first_dict_value = my_dict["name"]  # "Alice"
 second_dict_value = my_dict["age"]   # 25
 third_dict_value = my_dict["city"]  # "New York"
+# Dictionary example
+my_dict = {
+    "name": "Alice",
+    "age": 25,
+    "city": "New York"
+}
