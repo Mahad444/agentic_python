@@ -34,3 +34,4 @@ my_dict = {
     "age": 25,
     "city": "New York"
 }
+print("First Name:", first_dict_value)
