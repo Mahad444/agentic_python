@@ -35,3 +35,5 @@ my_dict = {
     "city": "New York"
 }
 print("First Name:", first_dict_value)
+print("Age:", second_dict_value)
+print("City:", third_dict_value)
